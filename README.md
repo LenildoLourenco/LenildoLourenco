@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Lenildo Lourenço
 
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Estudando Angular e Typescript
+- 📘 Formado em Análise e Desenvolvimento de Sistemas
+- 🏆 7x Microsoft Certified
+- 🔭 Atualmente trabalho com Front-End(Angular/.Net/Asp.Net)
+- 🌱 Estudando Cloud
 
 <div>
   <a href="https://github.com/LenildoLourenco">
