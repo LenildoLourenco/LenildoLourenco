@@ -2,7 +2,7 @@
 
 - 📘 Formado em Análise e Desenvolvimento de Sistemas
 - 🏆 7x Microsoft Certified
-- 🔭 Atualmente trabalho com Front-End(Angular/.Net/Asp.Net)
+- 🔭 Atualmente trabalho com Front-End(Angular/Typescript)
 - 🌱 Estudando Cloud
 
 <div>
